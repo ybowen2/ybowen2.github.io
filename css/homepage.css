@@ -223,7 +223,7 @@ height:40%;}
 {
   position: relative;
   width: 100%;
-  padding-top: 9%;
+  padding-top: 15%;
   text-align: center;
   background-color: #EEE;
 }
@@ -245,6 +245,7 @@ height:40%;}
 {
   float: left;
   margin-top: 0;
+  color: #973448;
   text-decoration: none;
   width: 100%;
   font-family: mid-title;
