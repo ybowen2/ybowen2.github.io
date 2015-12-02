@@ -76,7 +76,7 @@
     height:100%;
     width:100%;
     vertical-align: top;
-    margin-left:51%;
+    margin-left:50%;
     margin-top: 0;
     position:relative;
 }
@@ -88,6 +88,12 @@
   height:12%;
   width:6%;
   position:relative;  
+}
+
+#playbuttonimage_landing:hover
+{
+  opacity: 0.4;
+
 }
 #projectspage
   {
@@ -181,4 +187,29 @@ height:40%;}
   width: 100%;
   position: relative;
   height: 500px;
+}
+
+
+#writing-title
+{
+  font-family: Header;
+  font-size: 2.2em;
+  color:#F1C2C2;
+  text-align: center;
+  background-color: #959595;
+}
+
+#writing-text
+{
+  font-family: mid-title;
+  font-size: 1.8em;
+  font-weight: lighter;
+  color: #973448;
+  background-color: #EEE;
+}
+
+.modal-content
+{
+  width: 95%;
+  background-color: transparent;
 }
