@@ -216,4 +216,5 @@ height:40%;}
 .thumb
 {
   float: left;
+  position: relative;
 }
