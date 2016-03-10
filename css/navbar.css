@@ -1,0 +1,27 @@
+.navbar-header{
+	background-color: transparent;
+	z-index: 210;
+}
+.navbarholder{
+	position: fixed;
+	z-index: 210;
+	top: 15px;
+	opacity: 1.0;
+	font-family: 'Lato';
+	font-weight: 400;
+	background-color:transparent;
+	color: #000;
+	text-align: left;
+	border:none;
+}
+
+.navdroplist{
+	width: 100%;
+	height: 50%;
+	background-color:#000;
+	color: #fff;
+	font-size: 1.2em;
+	font-family: 'Lato';
+	font-weight: 300;
+	line-height: 26.4px;
+}

@@ -1,0 +1,95 @@
+
+@media only screen 
+    and (max-device-width : 667px) 
+    {
+    	
+        h1 {
+            font-size: 2.5em;
+            color: #000;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        h2{
+            font-size: 2em;
+            color: #000;
+            text-align: center;
+            text-transform: uppercase;
+            
+        }
+        p{
+            font-size: 1.5em;
+            font-weight: 400;
+            color: #000;
+            padding-right: 10%;
+            padding-left: 10%;
+            padding-top: 1%;
+            text-align: left;
+        }
+         .contact-donate, .contact-subhead
+        {
+            padding-right: 10%;
+            padding-left: 10%;
+            padding-top: 5%;
+            padding-bottom: 5%;
+        }
+
+        .castncrew-image{
+            margin-top: 70px;
+            width: 100%;
+            height: 50%;
+            overflow: hidden;
+            max-height: 700px;
+            max-width: 100%;
+         
+
+            
+        }
+    
+        #home_title_desktop{
+            visibility: hidden;
+            font-size: 1.5em;
+            position:absolute;
+        }
+        #home_title_mobile{
+            visibility: hidden;
+            
+        }
+        #vagmocircle{
+            visibility: hidden;
+        }
+        .navbarholder{
+            width: 100%;
+            z-index: 210;
+            font-size: 1.5em;
+            right: 0px;
+            
+        }
+        .navbar-header{
+            z-index: 210;
+        
+        }
+
+
+        
+        
+          .navbar-nav{
+            margin-right: 0px;
+            margin-left: 0px;
+            width: 100%;
+        }
+        
+        #foxyform_embed_link_755382{
+        width: 100%;
+        height: 100%;
+        margin-left: 5px;
+        
+    }
+
+    .form-div{
+    }
+    .contact-image{
+        visibility: hidden;
+        height: 0px;
+    }
+    }

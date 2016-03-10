@@ -1,0 +1,30 @@
+body {
+    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.thumb {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.page-header{
+	margin-top: 80px;
+	border-top-color: #191919;
+	border-bottom-color: #191919;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+
+}
+.row
+{
+	z-index: 100;
+	
+}
+img{
+	overflow: hidden;
+}
+
+footer {
+    margin: 50px 0;
+}

@@ -1,0 +1,78 @@
+
+@media only screen 
+    and (min-device-width : 998px) 
+    {
+    	
+    	.homeaction{
+    		bottom: 2px;
+
+    	}
+    	h1 {
+            font-size: 3.3em;
+            color: #191919;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h2{
+            font-size: 2.5em;
+            color: #000;
+            text-align: center;
+            text-transform: uppercase;
+            
+        }
+        p{
+            font-size: 1.5em;
+            font-weight: lighter;
+            color: #191919;
+            padding-left: 10%;
+            padding-right: 10%;
+        }
+       
+    	#home_title_mobile {
+    		visibility: hidden;
+    	}
+    	#home_title_desktop {
+            visibility: visible;
+            font-size: 2.2em;
+            left: 70px;
+            
+        }
+        #vagmocircle{
+            top: 0px;
+            padding-top: 15px;
+            visibility: hidden;
+        
+        }
+    	.navbarholder{
+    		right: 15px;
+    		font-size: 1em;
+    	}
+
+      .contact-donate, .contact-subhead
+    {
+    border-top-color: #191919;
+    border-bottom-color: #191919;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    }
+
+    .contact-donate{
+        margin-top: 100px;
+    }
+    .form-div{
+        max-height: 500px;
+
+    }
+
+        .dropdown:hover .dropdown-menu {
+display: block;
+}
+
+
+    }

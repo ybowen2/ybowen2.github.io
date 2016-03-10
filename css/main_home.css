@@ -1,0 +1,60 @@
+ #header_block{
+
+	width: 100%;
+	height: 70px;
+	padding:2px;
+	opacity: 1.0;
+	background-color: #000;
+	position:fixed;
+	z-index: 200;
+}
+
+#vagmocircle{
+	background-color:#000;
+	width:100%;
+	opacity: 0.8;
+ 	margin: auto 0 auto 0;
+ 	height: 22%;
+ 	position:fixed;
+	z-index: 200;
+	
+	/*vertical-align: middle;*/
+	/*text-align: center;*/
+
+
+
+}
+
+#home_title_mobile, #home_title_desktop{
+	
+	font-family: 'Lato';
+	font-weight: bold;
+	margin:2pt 2pt 2pt 2pt;
+	width: 100%;
+	vertical-align: middle;
+	text-transform: capitalize;
+	color:#fff;
+	position:fixed;
+	z-index: 200;
+}
+
+.homeaction{
+	height: 10%;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 40%;
+	position: relative;
+	}
+
+
+
+.bgimage {
+	width: 100%;
+	position: absolute;
+}
+
+.about_content{
+	width: 100%;
+	padding: 1%;
+
+}

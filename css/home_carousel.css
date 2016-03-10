@@ -1,0 +1,9 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      overflow: hidden;
+      height:100%;
+      padding-top: 70px;
+ 	margin-bottom: 0px;
+ 	max-height: 00px;    
+}

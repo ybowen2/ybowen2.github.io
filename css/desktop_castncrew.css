@@ -1,0 +1,86 @@
+
+@media only screen 
+    and (min-device-width : 998px) 
+    {
+    	
+    	.homeaction{
+    		bottom: 2px;
+
+    	}
+    	h1 {
+            font-size: 3.3em;
+            color: #191919;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h2{
+            font-size: 2.5em;
+            color: #000;
+            text-align: center;
+            text-transform: uppercase;
+            
+        }
+        p{
+            font-size: 1.5em;
+            font-weight: lighter;
+            color: #ccc;
+            padding: 5%;
+        }
+        .castncrew-image{
+            width: 100%;
+            height: 90%;
+            overflow: hidden;
+        }
+        .castncrew-image img {
+            width:100%;
+            height: 100%;
+            overflow: hidden;
+        }
+    	#home_title_mobile {
+    		visibility: hidden;
+    	}
+    	#home_title_desktop {
+            visibility: visible;
+            font-size: 2.2em;
+            left: 70px;
+            
+        }
+        #vagmocircle{
+            top: 0px;
+            padding-top: 15px;
+            visibility: hidden;
+        
+        }
+    	.navbarholder{
+    		right: 15px;
+    		font-size: 1em;
+    	}
+
+        .dir_main_images
+        {
+            overflow: hidden;
+            width: 100%;
+            height: 600px;
+            padding: 10%;
+            position: relative;
+        }
+        .cast_main_images{
+            max-width: 100%;
+            height: 400px;
+            padding-top: 5%;
+            padding-left: 15%;
+            padding-right: 15%;
+
+          box-shadow: 2px #000;
+
+
+        }
+
+        .dropdown:hover .dropdown-menu {
+display: block;
+}
+
+
+    }

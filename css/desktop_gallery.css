@@ -1,0 +1,85 @@
+
+@media only screen 
+    and (min-device-width : 998px) 
+    {
+    	.buttonvm{
+    		border-radius: 0%;
+    	}
+    	.homeaction{
+    		bottom: 2px;
+
+    	}
+    	.gallery_header h1 {
+            font-size: 3.3em;
+            color: #000;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        h2{
+            font-size: 2.5em;
+            color: #191919;
+            text-align: center;
+            text-transform: uppercase;
+            
+        }
+        p{
+            font-size: 1.5em;
+            font-weight: lighter;
+            color: #ccc;
+            padding: 5%;
+        }
+    	#home_title_mobile {
+    		visibility: hidden;
+    	}
+    	#home_title_desktop {
+            visibility: visible;
+            font-size: 2.2em;
+            left: 70px;
+            
+        }
+        #vagmocircle{
+            top: 0px;
+            padding-top: 15px;
+            visibility: hidden;
+        
+        }
+    	.navbarholder{
+    		right: 15px;
+    		font-size: 1em;
+    	}
+
+        .gallery_header{
+            margin-top: 100px;
+        }
+        .gallery_main_images{
+            max-width: 45%;
+            width: 45%;
+            padding: 5px;
+            border-style: solid;
+            border-width: 2px;
+            border-color: #000;
+            height: 450px;
+            margin: 2% 2% 2% 2.5%;
+            
+
+            
+        }
+       .gallery_holder{
+            width: 100%;
+            max-width: 100%;
+            position: relative;
+            border-left-width: 20%;
+            padding-left: 20px;
+            border-left-width: 20px
+            
+        }
+
+        
+        .dropdown:hover .dropdown-menu {
+display: block;
+}
+
+
+    }

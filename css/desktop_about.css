@@ -1,0 +1,66 @@
+
+@media only screen 
+    and (min-device-width : 998px) 
+    {
+    	.buttonvm{
+    		border-radius: 0%;
+    	}
+    	.bgimage {
+    		visibility: visible;
+    		opacity: 0.8;
+    		top: 70px;
+    		max-width: 100%;
+    	}
+    	.homeaction{
+    		bottom: 2px;
+
+    	}
+    	.about_content h1 {
+            font-size: 3.3em;
+            color: #000;
+            text-align: center;
+            font-weight: bold;
+            margin-left:  10%;
+            margin-right: 10%;
+            text-transform: uppercase;
+        }
+
+        .about_content h2{
+            font-size: 2.5em;
+            color: #000;
+            margin-left:  10%;
+            margin-right: 10%;
+            text-align: center;
+            text-transform: uppercase;
+            
+        }
+        .about_content p{
+            
+            color: #191919;
+            padding-left:  10%;
+            padding-right: 10%;
+        }
+    	#home_title_mobile {
+    		visibility: hidden;
+    	}
+    	#home_title_desktop {
+            visibility: visible;
+            font-size: 2.2em;
+            left: 70px;
+            
+        }
+        #vagmocircle{
+            top: 0px;
+            padding-top: 15px;
+            visibility: hidden;
+        
+        }
+    	.navbarholder{
+    		right: 15px;
+    		font-size: 1em;
+    	}
+        .dropdown:hover .dropdown-menu {
+display: block;
+}
+
+    }
