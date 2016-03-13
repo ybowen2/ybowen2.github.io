@@ -21,15 +21,15 @@
             font-size: 1.5em;
             font-weight: 400;
             color: #000;
-            padding-right: 10%;
-            padding-left: 10%;
+            padding-right: 3%;
+            padding-left: 3%;
             padding-top: 1%;
             text-align: left;
         }
          .contact-donate, .contact-subhead
         {
-            padding-right: 10%;
-            padding-left: 10%;
+            padding-right: 5%;
+            padding-left: 5%;
             padding-top: 5%;
             padding-bottom: 5%;
         }
